@@ -1,0 +1,37 @@
+Bienvenido a Hunt The Wumpus!!!
+
+Objetivo del juego:
+
+-Encontrar el oro y volver a la casilla de salida lo más rápidamente posible.
+Intenta que no te mate el wumpus,ni caer en un pozo!
+
+//////////////////////////////////////////////////////
+Instrucciones para ejecutar la aplicación
+//////////////////////////////////////////////////////
+
+1-Abrir Eclipse
+2-Una vez abierto Eclipse, abrir el proyecto WumpusTest
+3-Ejecutar el proyecto WumpusTest
+
+4-Una vez ejecutado el proyecto, el juego aparecerá en la consola.
+ En la consola el jugador tendrá que introducir:
+	-Dimensiones del tablero(número entero mayor o igual que 3):
+	-Número de pozos:
+	-Número de flechas de las que dispone el usuario:
+
+5-Una vez introducido estos parámetros el juego comienza.
+
+6-El jugador comienza en la casilla 0,0 y mirando hacia la derecha.
+  En la consola aparecerá las distintas acciones que puede realizar el jugador,
+  seleccionando la que considere oportuna, introduciendo el número de la opción.
+  Ej: Siguiente movimiento?
+		1-Avanzar
+		2-Girar 90º a la derecha
+		3-Girar 90º a la izquierda
+		4-Lanzar flecha
+		5-Escapar
+		
+	Si el usuario desea avanzar, introducirá un 1.
+	
+	
+Buena suerte en tu busqueda del oro!
